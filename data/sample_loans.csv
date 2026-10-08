@@ -1,0 +1,4 @@
+company_id,requested_amount,approved_amount,term_months,interest_rate,status
+KZD-001,600000,500000,24,12,approved
+HCL-002,750000,600000,36,13.5,under_review
+LIS-003,900000,720000,18,14.5,approved

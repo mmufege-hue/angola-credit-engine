@@ -1,0 +1,4 @@
+company_id,year,current_ratio,quick_ratio,ebitda_margin,net_margin,debt_to_ebitda,interest_coverage,dscr
+KZD-001,2025,1.80,1.40,0.13,0.05,0.97,8.27,1.50
+HCL-002,2025,1.20,0.95,0.09,0.02,1.81,3.86,0.86
+LIS-003,2025,1.35,1.05,0.08,0.02,1.78,4.22,0.98
